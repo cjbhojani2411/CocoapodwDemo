@@ -1,0 +1,6 @@
+framework module CocoapodwDemo {
+  umbrella header "CocoapodwDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

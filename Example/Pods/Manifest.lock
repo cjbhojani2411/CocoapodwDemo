@@ -1,0 +1,16 @@
+PODS:
+  - CocoapodwDemo (0.1.0)
+
+DEPENDENCIES:
+  - CocoapodwDemo (from `../`)
+
+EXTERNAL SOURCES:
+  CocoapodwDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CocoapodwDemo: 7ef1c5fcfc30b5a6cb8da80b5145ebbf2df49afc
+
+PODFILE CHECKSUM: ade1c849c63a5a43ffc7ba15dafb6257660d9e17
+
+COCOAPODS: 1.12.1
